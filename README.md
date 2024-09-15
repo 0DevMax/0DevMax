@@ -17,7 +17,5 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcos-C" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Marcos-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 </div>
